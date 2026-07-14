@@ -5,6 +5,7 @@ Recriação modernizada do artigo **"Detecção de Cicatrizes do Fogo na Vegeta�
 no Distrito Federal entre 1999 e 2011"** (Silva, Costa & Matricardi, 2017), aplicada ao
 PARNA da Chapada dos Veadeiros com dados de 2025.
 
+![Mapa de classificação do GEE](/files\mapa-classificado.png)
 
 ## Sobre o Projeto
 
